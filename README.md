@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone https://github.com/rajatrajputdev/placement-package-prediction.git
-   cd ecommerce-price-prediction
+   cd placement-package-prediction
    ```
 2. Install dependencies:
    ```sh
