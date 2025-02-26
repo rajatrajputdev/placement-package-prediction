@@ -1,7 +1,6 @@
 import streamlit as st  # Import Streamlit
 from joblib import load  # Import joblib
 from numpy import array  # Import numpy
-
 # Load the trained model
 model = load("./resources/placement-model.pkl")
 
